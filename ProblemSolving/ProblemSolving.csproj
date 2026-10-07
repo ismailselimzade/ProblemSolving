@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="LeetCode\" />
+    <Folder Include="HackerRank\" />
+    <Folder Include="Codewars\" />
+  </ItemGroup>
+
 </Project>
