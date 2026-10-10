@@ -4,9 +4,16 @@
 // TESTS
 // =========================================================================
 
-TestArrayResult(
-    problemName: nameof(solution),
-    result: null
+TestArrayResult<Array>
+(
+    problemName: nameof(solution), // add solution.MethodName
+    result: null!
+);
+
+TestValueResult<object>
+(
+    problemName: nameof(solution), // add solution.MethodName
+    result: null!
 );
 
 // =========================================================================
@@ -15,6 +22,29 @@ TestArrayResult(
 
 static void TestArrayResult<T>(string problemName, IEnumerable<T> result)
 {
-    string output = result != null && result.Any() ? string.Join(", ", result) : "Boş / Null / Tapılmadı";
-    Console.WriteLine($"[{problemName}] -> Result: [{output}]");
+    if (result == null)
+    {
+        Console.WriteLine($"[{problemName}] -> Result: [Null]");
+    }
+    else if (!result.Any())
+    {
+        Console.WriteLine($"[{problemName}] -> Result: [Boş / Tapılmadı]");
+    }
+    else
+    {
+        string output = string.Join(", ", result);
+        Console.WriteLine($"[{problemName}] -> Result: [{output}]");
+    }
+}
+
+static void TestValueResult<T>(string problemName, T result)
+{
+    if (result == null)
+    {
+        Console.WriteLine($"[{problemName}] -> Result: [Null]");
+    }
+    else
+    {
+        Console.WriteLine($"[{problemName}] -> Result: [{result}]");
+    }
 }
