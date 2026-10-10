@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="HackerRank\" />
     <Folder Include="Codewars\" />
   </ItemGroup>
 
