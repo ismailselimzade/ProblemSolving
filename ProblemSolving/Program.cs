@@ -6,13 +6,13 @@
 
 TestArrayResult<Array>
 (
-    problemName: nameof(solution), // add solution.MethodName
-    result: null!
+    problemName: nameof(solution), // Metodun və ya problemin adını dəqiq görmək üçün
+    result: null! // Yoxlamaq istədiyimiz metodu və dəyərləri göndəririk (solution.?)
 );
 
 TestValueResult<object>
 (
-    problemName: nameof(solution), // add solution.MethodName
+    problemName: nameof(solution),
     result: null!
 );
 
@@ -20,6 +20,7 @@ TestValueResult<object>
 // HELPER METHODS
 // =========================================================================
 
+// Kolleksiya (Massiv/List) şəklində cavab qaytaran problemlər üçün
 static void TestArrayResult<T>(string problemName, IEnumerable<T> result)
 {
     if (result == null)
@@ -37,6 +38,7 @@ static void TestArrayResult<T>(string problemName, IEnumerable<T> result)
     }
 }
 
+// Tək dəyər tipli cavab qaytaran problemlər üçün
 static void TestValueResult<T>(string problemName, T result)
 {
     if (result == null)
