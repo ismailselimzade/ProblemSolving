@@ -4,16 +4,18 @@
 // TESTS
 // =========================================================================
 
+// Kolleksiya (Massiv/List) şəklində cavab qaytaran problemlər üçün
 TestArrayResult<Array>
 (
     problemName: nameof(solution), // Metodun və ya problemin adını dəqiq görmək üçün
     result: null! // Yoxlamaq istədiyimiz metodu və dəyərləri göndəririk (solution.?)
 );
 
+// Tək dəyər tipli cavab qaytaran problemlər üçün
 TestValueResult<object>
 (
-    problemName: nameof(solution), // Metodun və ya problemin adını dəqiq görmək üçün
-    result: null! // Yoxlamaq istədiyimiz metodu və dəyərləri göndəririk (solution.?)
+    problemName: nameof(solution.Interpret), // Metodun və ya problemin adını dəqiq görmək üçün
+    result: solution.Interpret("9") // Yoxlamaq istədiyimiz metodu və dəyərləri göndəririk (solution.?)
 );
 
 // =========================================================================
