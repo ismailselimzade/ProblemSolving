@@ -3,5 +3,5 @@
 /// </summary>
 public partial class Solution
 {
-    // Bütün LeetCode məsələlərinin həlləri 'partial' olaraq öz xüsusi fayllarında yer alacaq.
+    // Bütün məsələlərinin həlləri 'partial' olaraq öz xüsusi fayllarında yer alacaq.
 }

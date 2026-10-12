@@ -21,7 +21,7 @@ Constraints / Məhdudiyyətlər:
 - a və b ədədləri 1 ilə 1000 arasındadır.
 ===========================================================================
 */
-partial class Solution
+public partial class Solution
 {
     /// <summary>
     /// Computes the sum of two integers / İki tam ədədin cəmini hesablayır

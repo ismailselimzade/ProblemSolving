@@ -12,8 +12,8 @@ TestArrayResult<Array>
 
 TestValueResult<object>
 (
-    problemName: nameof(solution),
-    result: null!
+    problemName: nameof(solution), // Metodun və ya problemin adını dəqiq görmək üçün
+    result: null! // Yoxlamaq istədiyimiz metodu və dəyərləri göndəririk (solution.?)
 );
 
 // =========================================================================

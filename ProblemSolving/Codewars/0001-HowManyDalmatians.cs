@@ -5,7 +5,7 @@ PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 Platform: Codewars
 Problem: 101 Dalmatians - squash the bugs, not the dogs!
 Difficulty / Çətinlik: 8 kyu
-Link: https://www.codewars.com/kata/56f6919a6b88de18ff000b36
+Link: https://www.codewars.com/kata/56f6919a6b88de18ff000b36/train/csharp
 
 Your friend has been out shopping for puppies (what a time to be alive!)... He arrives back with multiple dogs, and you simply do not know how to respond!
 - Dostunuz küçüklər almağa getmişdi (yaşamaq üçün necə də gözəl vaxtdır!)... O, birdən çox itlə qayıdır və siz sadəcə nə cavab verəcəyinizi bilmirsiniz!
