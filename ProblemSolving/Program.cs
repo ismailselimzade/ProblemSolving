@@ -14,8 +14,8 @@ TestArrayResult<Array>
 // Tək dəyər tipli cavab qaytaran problemlər üçün
 TestValueResult<object>
 (
-    problemName: nameof(solution.Interpret), // Metodun və ya problemin adını dəqiq görmək üçün
-    result: solution.Interpret("9") // Yoxlamaq istədiyimiz metodu və dəyərləri göndəririk (solution.?)
+    problemName: nameof(solution.RomanToInt_Optimal), // Metodun və ya problemin adını dəqiq görmək üçün
+    result: solution.RomanToInt_Optimal("MCMXCIV") // Yoxlamaq istədiyimiz metodu və dəyərləri göndəririk (solution.?)
 );
 
 // =========================================================================
