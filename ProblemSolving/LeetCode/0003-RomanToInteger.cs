@@ -118,7 +118,8 @@ public partial class Solution
     }
 
     /// <summary>
-    /// Converts a Roman numeral string to an integer by iterating from right to left and subtracting smaller prefix values / Sağdan sola doğru iterasiya edərək və kiçik prefiks dəyərləri çıxaraq Roma rəqəmləri sətrini tam ədədə çevirir
+    /// Converts a Roman numeral string to an integer by iterating from right to left and subtracting smaller prefix values 
+    /// Sağdan sola doğru iterasiya edərək və kiçik prefiks dəyərləri çıxaraq Roma rəqəmləri sətrini tam ədədə çevirir
     /// Time Complexity / Vaxt Mürəkkəbliyi: O(N) - N sətrin uzunluğudur
     /// Space Complexity / Yaddaş Mürəkkəbliyi: O(1) - Əlavə obyekt yaradılmır (Allocation-Free)
     /// </summary>

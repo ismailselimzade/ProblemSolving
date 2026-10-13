@@ -14,8 +14,8 @@ TestArrayResult<Array>
 // Tək dəyər tipli cavab qaytaran problemlər üçün
 TestValueResult<object>
 (
-    problemName: nameof(solution.RomanToInt_Optimal), // Metodun və ya problemin adını dəqiq görmək üçün
-    result: solution.RomanToInt_Optimal("MCMXCIV") // Yoxlamaq istədiyimiz metodu və dəyərləri göndəririk (solution.?)
+    problemName: nameof(solution.LongestCommonPrefix1), // Metodun və ya problemin adını dəqiq görmək üçün
+    result: solution.LongestCommonPrefix1(new string[]{ "flower", "flower", "flower", "flower" }) // Yoxlamaq istədiyimiz metodu və dəyərləri göndəririk (solution.?)
 );
 
 // =========================================================================
