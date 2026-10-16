@@ -1,5 +1,4 @@
-﻿```
-/*
+﻿/*
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
@@ -49,7 +48,7 @@ public partial class Solution
     /// Time Complexity / Vaxt Mürəkkəbliyi: O(n)
     /// Space Complexity / Yaddaş Mürəkkəbliyi: O(1)
     /// </summary>
-    public static List<int> ReverseArrayInPlace(List<int> a)
+    public List<int> ReverseArrayInPlace(List<int> a)
     {
         // List.Reverse() ilə massivi yerində tərsinə çevir
         a.Reverse();
