@@ -14,8 +14,8 @@ TestArrayResult<Array>
 // Tək dəyər tipli cavab qaytaran problemlər üçün
 TestValueResult<object>
 (
-    problemName: nameof(solution.IsValidDictionaryStack), // Metodun və ya problemin adını dəqiq görmək üçün
-    result: solution.IsValidDictionaryStack("()") // Yoxlamaq istədiyimiz metodu və dəyərləri göndəririk (solution.?)
+    problemName: nameof(solution), // Metodun və ya problemin adını dəqiq görmək üçün
+    result: null! // Yoxlamaq istədiyimiz metodu və dəyərləri göndəririk (solution.?)
 );
 
 // =========================================================================
