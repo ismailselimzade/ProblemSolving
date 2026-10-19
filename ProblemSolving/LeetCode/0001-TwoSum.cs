@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Junior # Array # Hash Table
+
 Platform: LeetCode
 Problem: 1. Two Sum
 Difficulty / Çətinlik: Easy / Asan

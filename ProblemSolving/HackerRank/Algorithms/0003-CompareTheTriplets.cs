@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Warmup
+
 Platform: HackerRank
 Problem: Compare the Triplets
 Difficulty / Çətinlik: Easy / Asan

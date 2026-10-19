@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Arrays
+
 Platform: HackerRank
 Problem: Arrays - DS
 Difficulty / Çətinlik: Easy

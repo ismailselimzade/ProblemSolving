@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Fundamentals
+
 Platform: Codewars
 Problem: 8kyu interpreters: HQ9+
 Difficulty / Çətinlik: 8 kyu (Easy / Asan)

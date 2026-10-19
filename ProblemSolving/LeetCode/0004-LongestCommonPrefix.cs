@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Array # String # Trie
+
 Platform: LeetCode
 Problem: 14. Longest Common Prefix / Ən Uzun Ortaq Prefiks
 Difficulty / Çətinlik: Easy / Asan

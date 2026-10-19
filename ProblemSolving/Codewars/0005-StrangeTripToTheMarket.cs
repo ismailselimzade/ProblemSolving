@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Regular Expressions # Strings # Fundamentals
+
 Platform: Codewars
 Problem: A Strange Trip to the Market
 Difficulty / Çətinlik: 8 kyu

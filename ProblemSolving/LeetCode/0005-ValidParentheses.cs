@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# String # Stack # Bracket Sequences
+
 Platform: LeetCode
 Problem: 20. Valid Parentheses
 Difficulty / Çətinlik: Easy

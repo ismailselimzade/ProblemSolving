@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Restricted # Fundamentals # Puzzles
+
 Platform: Codewars
 Problem: Return Five / Həmişə 5 Qaytar
 Difficulty / Çətinlik: 8 kyu (Easy / Asan)

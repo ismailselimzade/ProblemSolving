@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Fundamentals
+
 Platform: Codewars
 Problem: ASCII Total
 Difficulty / Çətinlik: 8 kyu

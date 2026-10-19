@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Warmup
+
 Platform: HackerRank
 Problem: Simple Array Sum
 Difficulty / Çətinlik: Easy / Asan

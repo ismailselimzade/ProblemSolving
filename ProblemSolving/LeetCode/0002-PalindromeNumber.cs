@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Math
+
 Platform: LeetCode
 Problem: 9. Palindrome Number
 Difficulty / Çətinlik: Easy / Asan

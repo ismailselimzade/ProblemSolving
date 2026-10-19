@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Warmup
+
 Platform: HackerRank
 Problem: Solve Me First
 Difficulty / Çətinlik: Easy / Asan

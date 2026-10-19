@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Hash Table # Math # String
+
 Platform: LeetCode
 Problem: 13. Roman to Integer / Roma Rəqəmlərindən Tam Ədədə
 Difficulty / Çətinlik: Easy / Asan

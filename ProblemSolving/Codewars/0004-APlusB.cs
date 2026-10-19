@@ -2,6 +2,8 @@
 ===========================================================================
 PROBLEM DESCRIPTION / PROBLEMİN TƏSVİRİ:
 ---------------------------------------------------------------------------
+# Fundamentals # Debugging
+
 Platform: Codewars
 Problem: A + B
 Difficulty / Çətinlik: 8 kyu
